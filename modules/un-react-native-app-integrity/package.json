@@ -1,0 +1,9 @@
+{
+  "name": "un-react-native-app-integrity",
+  "version": "0.0.0",
+  "description": "Check app integrity",
+  "main": "src/index",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme"
+}
